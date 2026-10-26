@@ -1,6 +1,6 @@
 {
     "latest_version": "0.9.7.1",
     "latest_database_version": "5.00",
-    "release date": "010/03/2026",
+    "release date": "25/10/2026",
     "release_notes": "Modified multiple slab interface friction, modified handling of expansion joints in thin pavements, modified failure criteria for expansion joints in thick pavements, bug fixes."
 }
