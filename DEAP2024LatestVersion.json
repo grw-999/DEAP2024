@@ -1,6 +1,6 @@
 {
-    "latest_version": "0.9.7.1",
-    "latest_database_version": "5.00",
-    "release date": "25/10/2026",
-    "release_notes": "Modified multiple slab interface friction, modified handling of expansion joints in thin pavements, modified failure criteria for expansion joints in thick pavements, bug fixes."
+    "latest_version": "0.9.7.2",
+	"latest_database_version": "5.00",
+    "release date": "27 October 2026",
+    "release_notes": "Help files modified for new zola based structure - Deap2024Installer.bat modified to edit version numbers and dates in the solution, to encypt the contect sensive help and to copy the remaining Zola help system files to Resources/AnnPavement Help as required. - Modificatios to encryptin scripts."
 }
