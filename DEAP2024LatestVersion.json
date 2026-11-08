@@ -1,6 +1,7 @@
 {
-    "latest_version": "0.9.7.2",
+    "latest_version": "0.9.7.3",
 	"latest_database_version": "5.00",
-    "release date": "27 October 2026",
-    "release_notes": "Help files modified for new zola based structure - Deap2024Installer.bat modified to edit version numbers and dates in the solution, to encypt the contect sensive help and to copy the remaining Zola help system files to Resources/AnnPavement Help as required. - Modificatios to encryptin scripts."
+	"status": "Beta",
+    "release date": "8 November 2026",
+    "release_notes": "Addition of complex pavement templates. Automatic  Interface Friction overridable in Advanced Mode. Initial testing of AnnPave_MLEA in advanced mode. Bug fixes for thin asphalt surfacing in flexible pavements and unbonded multiple slabs."
 }
