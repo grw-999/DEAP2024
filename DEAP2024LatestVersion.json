@@ -1,7 +1,7 @@
 {
-    "latest_version": "0.9.7.7",
+    "latest_version": "0.9.7.8",
 	"latest_database_version": "5.00",
 	"status": "Beta",
     "release date": "10 November 2026",
-    "release_notes": "Revised calculation of concrete elastic stiffness for flexible composite pavements. Remove bugs in saving project files with unstaged values in numeric text boxes"
+    "release_notes": "Bug fixes. New hot keys for calculation buttons."
 }
