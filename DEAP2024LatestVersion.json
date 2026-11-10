@@ -1,7 +1,7 @@
 {
-    "latest_version": "0.9.7.6",
+    "latest_version": "0.9.7.7",
 	"latest_database_version": "5.00",
 	"status": "Beta",
     "release date": "10 November 2026",
-    "release_notes": "Addition of ability to over-ride the E for PQC in flexible composites in Advanced Mode"
+    "release_notes": "Revised calculation of concrete elastic stiffness for flexible composite pavements. Remove bugs in saving project files with unstaged values in numeric text boxes"
 }
