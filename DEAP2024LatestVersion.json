@@ -1,7 +1,7 @@
 {
-    "latest_version": "0.9.7.5",
+    "latest_version": "0.9.7.6",
 	"latest_database_version": "5.00",
 	"status": "Beta",
-    "release date": "9 November 2026",
-    "release_notes": "Addition of complex pavement templates. Automatic  Interface Friction overridable in Advanced Mode. Initial testing of AnnPave_MLEA in advanced mode. Bug fixes for thin asphalt surfacing in flexible pavements and unbonded multiple slabs. Addition of AnnPaveMLEA as a test"
+    "release date": "10 November 2026",
+    "release_notes": "Addition of ability to over-ride the E for PQC in flexible composites in Advanced Mode"
 }
