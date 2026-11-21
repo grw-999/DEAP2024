@@ -1,7 +1,7 @@
 {
-    "latest_version": "0.9.7.9",
+    "latest_version": "0.9.7.10",
 	"latest_database_version": "5.00",
 	"status": "Beta",
-    "release date": "17 November 2026",
-    "release_notes": "Bug fixes. Revisions to shortcut keys. Revised interface friction modifications for multiple slabs on bound bases. Further developments to help system."
+    "release date": "21 November 2026",
+    "release_notes": "Bug fixes."
 }
